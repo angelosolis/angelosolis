@@ -8,7 +8,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=angelosolis&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=angelosolis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelosolis&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
 ![Snake animation](https://github.com/angelosolis/angelosolis/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
