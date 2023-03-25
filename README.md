@@ -2,10 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-## 💫 Repositories:
-[Repositories](https://github.com/angelosolis?tab=repositories)
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/SolisAngeloM/) 
 
@@ -22,10 +18,7 @@
 ### ✍️ Inspirational Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 📝 Recent Posts 
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->
+## 📝 Playlist
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31mow4jrssxoljpj7a6mqsbvnowa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
 ---
