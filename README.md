@@ -1,6 +1,8 @@
-# 💫 About Me:
-🌱 I’m currently learning C#
-[Repositories](https://github.com/angelosolis?tab=repositories)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+# 💫 [Repositories](https://github.com/angelosolis?tab=repositories):
 
 
 ## 🌐 Socials:
