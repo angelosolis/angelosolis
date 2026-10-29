@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title">
+<title id="title">Angelo Solis — full-stack developer</title>
+<defs>
+  <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="52" y1="118" x2="279" y2="261">
+    <stop offset="0" stop-color="#22D3EE"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#A78BFA" stop-opacity=".35"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="win"><rect x="1" y="1" width="898" height="518" rx="14"/></clipPath>
+</defs>
+<style>
+  .t { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; fill: #C9D1D9; }
+  .k { fill: #22D3EE; font-weight: 700; }
+  .v { fill: #C9D1D9; }
+  .u { fill: #A78BFA; font-weight: 700; font-size: 17px; }
+  .h { fill: #F472B6; font-weight: 700; font-size: 17px; }
+  .d { fill: #484F58; }
+  .g { fill: #3FB950; font-weight: 700; }
+  .px { fill: url(#g); opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop .45s cubic-bezier(.34,1.56,.64,1) forwards; }
+  .ln { opacity: 0; animation: in .45s ease-out forwards; }
+  .glow { animation: pulse 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .cur { animation: blink 1.05s steps(1) infinite; }
+  @keyframes pop { from { opacity: 0; transform: scale(.3); } to { opacity: 1; transform: scale(1); } }
+  @keyframes in { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+  @keyframes pulse { 0%,100% { opacity: .55; transform: scale(.92); } 50% { opacity: 1; transform: scale(1.06); } }
+  @keyframes blink { 0%,50% { opacity: 1; } 50.01%,100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .px, .ln { animation: none; opacity: 1; } .glow, .cur { animation: none; } }
+</style>
+<g clip-path="url(#win)">
+  <rect width="900" height="520" fill="#0D1117"/>
+  <rect width="900" height="42" fill="#161B22"/>
+  <line x1="0" y1="42" x2="900" y2="42" stroke="#30363D"/>
+  <circle cx="24" cy="21" r="6.5" fill="#FF5F57"/><circle cx="46" cy="21" r="6.5" fill="#FEBC2E"/><circle cx="68" cy="21" r="6.5" fill="#28C840"/>
+  <text x="450" y="26" text-anchor="middle" class="t d" style="font-size:13px">angelo@solis: ~</text>
+  <text x="28" y="84" class="t"><tspan class="g">❯</tspan> neofetch</text>
+  <ellipse class="glow" cx="165.5" cy="189.5" rx="170.25" ry="135.85" fill="url(#glow)"/>
+  <rect class="px" style="animation-delay:0.200s" x="73" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.250s" x="94" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.300s" x="115" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.175s" x="52" y="139" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.375s" x="136" y="139" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.200s" x="52" y="160" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.400s" x="136" y="160" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.225s" x="52" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.275s" x="73" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.325s" x="94" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.375s" x="115" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.425s" x="136" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.250s" x="52" y="202" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.450s" x="136" y="202" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.275s" x="52" y="223" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.475s" x="136" y="223" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.300s" x="52" y="244" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.500s" x="136" y="244" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.500s" x="199" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.550s" x="220" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.600s" x="241" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.650s" x="262" y="118" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.475s" x="178" y="139" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.500s" x="178" y="160" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.575s" x="199" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.625s" x="220" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.675s" x="241" y="181" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.750s" x="262" y="202" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.775s" x="262" y="223" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.600s" x="178" y="244" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.650s" x="199" y="244" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.700s" x="220" y="244" width="17" height="17" rx="4"/><rect class="px" style="animation-delay:0.750s" x="241" y="244" width="17" height="17" rx="4"/>
+  <g class="ln" style="animation-delay:1.4s">
+    <rect x="52" y="291" width="214" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+    <circle cx="72" cy="306" r="4.5" fill="#3FB950"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="86" y="311" class="t" style="font-size:13px">shipping in production</text>
+  </g>
+  <g class="ln" style="animation-delay:0.5s"><text x="330" y="128" class="t"><tspan class="u">angelo</tspan><tspan class="d">@</tspan><tspan class="h">solis</tspan></text></g><g class="ln" style="animation-delay:0.6s"><text x="330" y="146" class="t d">────────────────</text></g><g class="ln" style="animation-delay:0.70s"><text x="330" y="175" class="t"><tspan class="k">role</tspan><tspan x="442" class="v">Full-stack developer</tspan></text></g><g class="ln" style="animation-delay:0.79s"><text x="330" y="200" class="t"><tspan class="k">location</tspan><tspan x="442" class="v">Lapu-Lapu City, Philippines</tspan></text></g><g class="ln" style="animation-delay:0.88s"><text x="330" y="225" class="t"><tspan class="k">uptime</tspan><tspan x="442" class="v">on GitHub since 2021 · 6.9k+ contributions</tspan></text></g><g class="ln" style="animation-delay:0.97s"><text x="330" y="250" class="t"><tspan class="k">languages</tspan><tspan x="442" class="v">TypeScript · Python · Java · C# · C/C++</tspan></text></g><g class="ln" style="animation-delay:1.06s"><text x="330" y="275" class="t"><tspan class="k">frontend</tspan><tspan x="442" class="v">Next.js · React · Tailwind</tspan></text></g><g class="ln" style="animation-delay:1.15s"><text x="330" y="300" class="t"><tspan class="k">backend</tspan><tspan x="442" class="v">Node.js · Supabase · Postgres</tspan></text></g><g class="ln" style="animation-delay:1.24s"><text x="330" y="325" class="t"><tspan class="k">infra</tspan><tspan x="442" class="v">Cloudflare · Railway · Render · Vercel</tspan></text></g><g class="ln" style="animation-delay:1.33s"><text x="330" y="350" class="t"><tspan class="k">mobile</tspan><tspan x="442" class="v">Android · iOS</tspan></text></g><g class="ln" style="animation-delay:1.42s"><text x="330" y="375" class="t"><tspan class="k">ai</tspan><tspan x="442" class="v">Claude Code (my favourite)</tspan></text></g><g class="ln" style="animation-delay:1.51s"><text x="330" y="400" class="t"><tspan class="k">design</tspan><tspan x="442" class="v">Photoshop · Premiere Pro · After Effects</tspan></text></g><g class="ln" style="animation-delay:1.60s"><text x="330" y="425" class="t"><tspan class="k">web</tspan><tspan x="442" class="v">angelosolis.dev</tspan></text></g>
+  <g class="ln" style="animation-delay:1.7s"><rect x="330" y="444" width="26" height="14" rx="3" fill="#22D3EE"/><rect x="360" y="444" width="26" height="14" rx="3" fill="#38BDF8"/><rect x="390" y="444" width="26" height="14" rx="3" fill="#818CF8"/><rect x="420" y="444" width="26" height="14" rx="3" fill="#A78BFA"/><rect x="450" y="444" width="26" height="14" rx="3" fill="#C084FC"/><rect x="480" y="444" width="26" height="14" rx="3" fill="#E879F9"/><rect x="510" y="444" width="26" height="14" rx="3" fill="#F472B6"/><rect x="540" y="444" width="26" height="14" rx="3" fill="#FB7185"/></g>
+  <g class="ln" style="animation-delay:1.9s">
+    <text x="28" y="486" class="t"><tspan class="g">❯</tspan> npm run ship</text>
+    <rect class="cur" x="160" y="472" width="9" height="18" fill="#C9D1D9"/>
+  </g>
+</g>
+<rect x="1" y="1" width="898" height="518" rx="14" fill="none" stroke="#30363D" stroke-width="1.5"/>
+</svg>
