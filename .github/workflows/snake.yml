@@ -22,8 +22,8 @@ jobs:
           # SNAKE_TOKEN = personal token (read:user) so private contributions show; falls back to the repo token
           github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
-            dist/snake.svg?color_snake=#7C3AED&color_dots=#ebedf0,#cffafe,#a5f3fc,#c4b5fd,#a78bfa
-            dist/snake-dark.svg?palette=github-dark&color_snake=#F472B6&color_dots=#161b22,#164e63,#0e7490,#7c3aed,#c084fc
+            dist/snake.svg?color_snake=#141413&color_dots=#eeece6,#f2c9b6,#e9a283,#d97757,#a8492b
+            dist/snake-dark.svg?palette=github-dark&color_snake=#E8E6DC&color_dots=#1c1b19,#4a2c21,#7a4330,#b35e3f,#e8916d
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v5
